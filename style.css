@@ -1,0 +1,53 @@
+body {
+	background: url(http://www.myliverpool.ru/ps/2017/5.1.jpg);
+}
+
+#emblem {
+	margin-left: 70%;
+}
+
+#main_part {
+	margin-left: 60%;
+}
+
+#video {
+	margin-top: -15%;
+	margin-left: 20%;
+}
+
+button {
+	width: 30%;
+	padding: 10px;
+	background-color: #e0ebeb;
+}
+
+input, button {
+	margin-right: 70%;
+	border-radius: 4px;
+	margin-top: 1%;
+}
+
+button:hover {
+	background-color: #b3cccc;
+}
+
+.links {
+	margin-top: 5%;
+}
+
+table {
+	margin-top: 5%;
+	text-align: center;
+	margin-left: 0%;
+}
+
+#users_page,  #registration_page, #login_page {
+	margin-left: 60%;
+	margin-top: 10%;
+}
+
+label, input {
+	width: 20%;
+	display: block; 
+	padding: 5px;
+}
